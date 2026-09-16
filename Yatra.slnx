@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Yatra.AgentIntegration/Yatra.AgentIntegration.csproj" />
+    <Project Path="src/Yatra.AppHost/Yatra.AppHost.csproj" />
+    <Project Path="src/Yatra.Contracts/Yatra.Contracts.csproj" />
+    <Project Path="src/Yatra.Engine/Yatra.Engine.csproj" />
+    <Project Path="src/Yatra.Orchestration/Yatra.Orchestration.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Yatra.AppHost.Tests/Yatra.AppHost.Tests.csproj" />
+    <Project Path="tests/Yatra.Contracts.Tests/Yatra.Contracts.Tests.csproj" />
+    <Project Path="tests/Yatra.Engine.Tests/Yatra.Engine.Tests.csproj" />
+    <Project Path="tests/Yatra.Orchestration.Tests/Yatra.Orchestration.Tests.csproj" />
+  </Folder>
+</Solution>
